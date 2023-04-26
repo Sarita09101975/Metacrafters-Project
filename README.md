@@ -1,4 +1,4 @@
-##Token Minting and Burning
+## Project1
 
 This Solidity smart contract demonstrates minting of our own token of whatever name we want and burn it as well.
 
